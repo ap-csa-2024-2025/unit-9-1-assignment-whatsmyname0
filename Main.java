@@ -4,6 +4,7 @@ public class Main
 {
   public static void main(String[] args)
   {
-    // TODO: Create objects and test code here.
+    Person p1 = new Person();
+    System.out.println(p1);
   }
 }
